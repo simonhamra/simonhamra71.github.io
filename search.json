@@ -7,10 +7,24 @@
     "text": "About this site"
   },
   {
+    "objectID": "ePortfolio/index.html",
+    "href": "ePortfolio/index.html",
+    "title": "Welcome To My Website !!",
+    "section": "",
+    "text": "Hello, World!\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome To My Website !!",
     "section": "",
     "text": "Hello, World!\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "ePortfolio/about.html",
+    "href": "ePortfolio/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
